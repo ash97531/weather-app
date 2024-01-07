@@ -8,6 +8,7 @@
 To get a local copy up and running follow these simple example steps.
 
 Prerequisite: https://flutter.dev/docs/get-started/install
+Demo video: https://drive.google.com/file/d/1UoSVdP9VQp2VKKQ1cvTFnDqAWEuH3Zj6/view?usp=sharing
 
 1. To get started, fork this repository to your GitHub account.
 
